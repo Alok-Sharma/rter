@@ -165,7 +165,7 @@ public class POIList {
 		for (POI item : items.values()) {
 		    item.render(gl, userLocation, displacement);
 		}
-		drawAxes(gl, lrm);
+//		drawAxes(gl, lrm);
 	}
 	
 	/*
